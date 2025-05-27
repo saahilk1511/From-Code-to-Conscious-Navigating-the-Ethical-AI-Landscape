@@ -15,7 +15,6 @@ This project is featured in the book _From Code to Conscious: Navigating the Eth
 - [Running the Project](#running-the-project)
 - [Usage](#usage)
 - [Challenges & Next Steps](#challenges--next-steps)
-- [License](#license)
 
 ---
 
@@ -67,8 +66,8 @@ AI-Risk-Navigator/
 ├── chroma_db/                   # Persisted vector database
 ├── .env                         # API keys and paths
 ├── Dockerfile                   # Image config
-├── docker-compose.yml          # Multi-container setup
-└── requirements.txt            # Python dependencies
+├── docker-compose.yml           # Multi-container setup
+└── requirements.txt             # Python dependencies
 ```
 
 ---
@@ -130,9 +129,7 @@ Access the chatbot at:
 - Extend to multimodal documents (e.g., scanned PDFs with OCR)
 - Introduce user access control and audit logging
 
----
 
-## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
