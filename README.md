@@ -15,6 +15,7 @@ This project is featured in the book _From Code to Conscious: Navigating the Eth
 - [Running the Project](#running-the-project)
 - [Usage](#usage)
 - [Challenges & Next Steps](#challenges--next-steps)
+- [License](#license)
 
 ---
 
@@ -66,8 +67,8 @@ AI-Risk-Navigator/
 ├── chroma_db/                   # Persisted vector database
 ├── .env                         # API keys and paths
 ├── Dockerfile                   # Image config
-├── docker-compose.yml           # Multi-container setup
-└── requirements.txt             # Python dependencies
+├── docker-compose.yml          # Multi-container setup
+└── requirements.txt            # Python dependencies
 ```
 
 ---
@@ -131,4 +132,10 @@ Access the chatbot at:
 
 ---
 
-> Built as part of my book(co-authored) *From Code to Conscious: Navigating the Ethical AI Landscape* — demonstrating ethical, explainable AI in high-risk domains.
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+> Built as part of *From Code to Conscious: Navigating the Ethical AI Landscape* — demonstrating ethical, explainable AI in high-risk domains.
