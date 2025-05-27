@@ -129,10 +129,6 @@ Access the chatbot at:
 - Extend to multimodal documents (e.g., scanned PDFs with OCR)
 - Introduce user access control and audit logging
 
-
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 > Built as part of *From Code to Conscious: Navigating the Ethical AI Landscape* — demonstrating ethical, explainable AI in high-risk domains.
