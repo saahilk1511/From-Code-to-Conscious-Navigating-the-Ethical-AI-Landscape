@@ -52,7 +52,7 @@ This project is featured in the book _From Code to Conscious: Navigating the Eth
 
 
 ## 📁 Project Structure
-
+```
 AI-Risk-Navigator/
 ├── backend/
 │ ├── main.py # FastAPI endpoint (/chat)
@@ -66,7 +66,7 @@ AI-Risk-Navigator/
 ├── Dockerfile # Image config
 ├── docker-compose.yml # Multi-container setup
 └── requirements.txt # Python dependencies
-
+```
 
 ## ⚙️ Setup Instructions
 
