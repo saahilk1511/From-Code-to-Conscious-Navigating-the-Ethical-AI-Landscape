@@ -15,7 +15,6 @@ This project is featured in the book _From Code to Conscious: Navigating the Eth
 - [Running the Project](#running-the-project)
 - [Usage](#usage)
 - [Challenges & Next Steps](#challenges--next-steps)
-- [License](#license)
 
 ---
 
@@ -132,10 +131,4 @@ Access the chatbot at:
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-> Built as part of *From Code to Conscious: Navigating the Ethical AI Landscape* — demonstrating ethical, explainable AI in high-risk domains.
+> Built as part of my book(co-authored) *From Code to Conscious: Navigating the Ethical AI Landscape* — demonstrating ethical, explainable AI in high-risk domains.
