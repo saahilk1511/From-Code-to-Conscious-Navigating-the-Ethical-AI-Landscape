@@ -66,8 +66,8 @@ AI-Risk-Navigator/
 ├── chroma_db/                   # Persisted vector database
 ├── .env                         # API keys and paths
 ├── Dockerfile                   # Image config
-├── docker-compose.yml          # Multi-container setup
-└── requirements.txt            # Python dependencies
+├── docker-compose.yml           # Multi-container setup
+└── requirements.txt             # Python dependencies
 ```
 
 ---
