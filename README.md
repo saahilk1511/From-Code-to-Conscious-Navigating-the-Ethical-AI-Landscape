@@ -55,17 +55,17 @@ This project is featured in the book _From Code to Conscious: Navigating the Eth
 ```
 AI-Risk-Navigator/
 ├── backend/
-│ ├── main.py # FastAPI endpoint (/chat)
+│ ├── main.py               # FastAPI endpoint (/chat)
 │ ├── document_processor.py # PDF loading, chunking
-│ ├── chroma_manager.py # Vector DB interface
+│ ├── chroma_manager.py     # Vector DB interface
 ├── frontend/
-│ └── app.py # Streamlit UI
-├── data/ # PDF transcripts or policy docs
-├── chroma_db/ # Persisted vector database
-├── .env # API keys and paths
-├── Dockerfile # Image config
-├── docker-compose.yml # Multi-container setup
-└── requirements.txt # Python dependencies
+│ └── app.py                # Streamlit UI
+├── data/                   # PDF transcripts or policy docs
+├── chroma_db/              # Persisted vector database
+├── .env                    # API keys and paths
+├── Dockerfile              # Image config
+├── docker-compose.yml      # Multi-container setup
+└── requirements.txt        # Python dependencies
 ```
 
 ## ⚙️ Setup Instructions
