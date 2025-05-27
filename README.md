@@ -7,7 +7,6 @@ AI Risk Navigator is a RAG-based chatbot that answers questions over risk and co
 
 This project is featured in the book _From Code to Conscious: Navigating the Ethical AI Landscape_, and demonstrates how LLMs can be ethically leveraged to assist in AI-powered risk management.
 
----
 
 ## 📑 Table of Contents
 
@@ -19,7 +18,6 @@ This project is featured in the book _From Code to Conscious: Navigating the Eth
 - [Usage](#usage)
 - [Challenges & Next Steps](#challenges--next-steps)
 
----
 
 ## 🚀 Demo
 
@@ -32,7 +30,6 @@ This project is featured in the book _From Code to Conscious: Navigating the Eth
 - View real-time responses with inline citations.
 - Explore source documents directly via the UI.
 
----
 
 ## 🧠 Architecture Overview
 
@@ -53,7 +50,6 @@ This project is featured in the book _From Code to Conscious: Navigating the Eth
 5. **Frontend (Streamlit)**  
    Displays the chat interface, conversation history, and document sources.
 
----
 
 ## 📁 Project Structure
 
@@ -81,13 +77,13 @@ git clone https://github.com/your-username/AI-Risk-Navigator.git
 cd AI-Risk-Navigator
 ```
 2. **Create a .env file**
-
+```
 OPENAI_API_KEY=your-openai-key
 OPENAI_MODEL=o1-mini
 DOCS_PATH=/app/data
 CHROMA_DIR=/app/chroma_db
 API_URL=http://backend:8000/chat
-
+```
 3. **Add your documents**
 
 Place your PDF files in the ./data/ directory.
@@ -102,6 +98,7 @@ docker-compose up --build
 Access the chatbot at:
 
 Frontend: http://localhost:8501
+
 API Docs: http://localhost:8000/docs
 
 ## **💬 Usage**
