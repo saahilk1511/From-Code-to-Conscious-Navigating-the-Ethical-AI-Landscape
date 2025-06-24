@@ -2,7 +2,7 @@
 
 **AI Risk Navigator** is a Retrieval-Augmented Generation (RAG) chatbot that enables contextual Q&A over internal risk, compliance, and policy PDFs. Powered by OpenAI's GPT models, SentenceTransformers, ChromaDB, FastAPI, and Streamlit, it provides explainable, source-grounded answers for high-stakes domains.
 
-This project is featured in the book _From Code to Conscious: Navigating the Ethical AI Landscape_, and demonstrates how LLMs can be ethically leveraged to assist in AI-powered risk management.
+This project is featured in the book _Artificial Intelligence and Safety: A Practical Guide for Programmers and Decision Makers_, and demonstrates how LLMs can be ethically leveraged to assist in AI-powered risk management.
 
 ---
 
