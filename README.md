@@ -110,7 +110,7 @@ docker-compose up --build
 
 Once both services have started to access the chatbot, open :
 
-- **Frontend:** [http://localhost:8501](http://localhost:8501)  
+- **Chatbot interface:** [http://localhost:8501](http://localhost:8501)  
 - **API Docs:** [http://localhost:8000/docs](http://localhost:8000/docs)
 
 To stop the application, press Ctrl+C. To stop and remove its containers, run:
