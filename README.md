@@ -21,11 +21,10 @@ This project is featured in the book _Artificial Intelligence and Safety: A Prac
 ## 🚀 Demo
 
 <p align="center">
-  <img width="1794" height="318" alt="Figure 63" src="https://github.com/user-attachments/assets/c7c26110-432f-4954-b7f4-74f2a9c06c7f" />
-  <img width="1795" height="886" alt="Figure 62" src="https://github.com/user-attachments/assets/70acb0bb-76a1-4810-b87c-00f6a7ae9118" />
-  <img width="1918" height="508" alt="Figure 61" src="https://github.com/user-attachments/assets/49f6915e-4d2e-467f-a6fa-ba16648da76b" />
   <img width="1913" height="442" alt="Figure 60" src="https://github.com/user-attachments/assets/53325ba4-8d9c-492c-a672-959ab88fe16b" />
-
+  <img width="1918" height="508" alt="Figure 61" src="https://github.com/user-attachments/assets/49f6915e-4d2e-467f-a6fa-ba16648da76b" />
+  <img width="1795" height="886" alt="Figure 62" src="https://github.com/user-attachments/assets/70acb0bb-76a1-4810-b87c-00f6a7ae9118" />
+  <img width="1794" height="318" alt="Figure 63" src="https://github.com/user-attachments/assets/c7c26110-432f-4954-b7f4-74f2a9c06c7f" />
 </p>
 
 - Ask risk-related questions like:
